@@ -28,7 +28,7 @@ Aline is a Flutter application that features both chat and post sections, comple
 
 ## Installation
 
-1. Clone this repository using `git clone https://github.com/your-username/aline.git`
+1. Clone this repository using `git clone https://github.com/iamprathameshmore/aline.git`
 2. Navigate to the project directory with `cd aline`
 3. Install the required dependencies using `flutter pub get`
 
