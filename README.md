@@ -9,17 +9,19 @@ Aline is a Flutter application that features both chat and post sections, comple
 - **User Interface:** Aline boasts a modern and intuitive user interface that enhances the overall user experience.
 
 ## Screenshots
-![IMG-20230822-WA0035](https://github.com/iamprathameshmore/aline/assets/91453437/ae94788c-3ea9-4f66-bea4-341ebb3841bc)
-![IMG-20230822-WA0034](https://github.com/iamprathameshmore/aline/assets/91453437/ba6793de-e45b-4c1e-8ece-682dbdf56fd9)
-![IMG-20230822-WA0033](https://github.com/iamprathameshmore/aline/assets/91453437/1e0102de-ed13-4366-aee4-183a6e901dcc)
-![IMG-20230822-WA0032](https://github.com/iamprathameshmore/aline/assets/91453437/d3ca097f-e7f8-4644-bda7-60fb093827dd)
-![IMG-20230822-WA0031](https://github.com/iamprathameshmore/aline/assets/91453437/bb845db7-3410-48a1-aaf3-5df016e1e398)
-![IMG-20230822-WA0030](https://github.com/iamprathameshmore/aline/assets/91453437/5255a26d-fca9-4e0e-a9a1-70173fbb7f6f)
-![IMG-20230822-WA0029](https://github.com/iamprathameshmore/aline/assets/91453437/a40e9118-90d5-474d-91fb-c9548ae199aa)
-![IMG-20230822-WA0028](https://github.com/iamprathameshmore/aline/assets/91453437/2dfba7e7-5cfc-452c-bc01-46527a9ffe38)
-![IMG-20230822-WA0027](https://github.com/iamprathameshmore/aline/assets/91453437/7325b01f-b47c-42b4-95c1-3ba1edea84d5)
-![IMG-20230822-WA0036](https://github.com/iamprathameshmore/aline/assets/91453437/9cbebc7f-9b93-4ca9-b035-58bedf26f4ae)
 
+Below are the application screenshots. For better visibility, ensure your browser or markdown viewer supports image resizing.
+
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/ae94788c-3ea9-4f66-bea4-341ebb3841bc" alt="Screenshot 1" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/ba6793de-e45b-4c1e-8ece-682dbdf56fd9" alt="Screenshot 2" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/1e0102de-ed13-4366-aee4-183a6e901dcc" alt="Screenshot 3" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/d3ca097f-e7f8-4644-bda7-60fb093827dd" alt="Screenshot 4" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/bb845db7-3410-48a1-aaf3-5df016e1e398" alt="Screenshot 5" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/5255a26d-fca9-4e0e-a9a1-70173fbb7f6f" alt="Screenshot 6" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/a40e9118-90d5-474d-91fb-c9548ae199aa" alt="Screenshot 7" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/2dfba7e7-5cfc-452c-bc01-46527a9ffe38" alt="Screenshot 8" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/7325b01f-b47c-42b4-95c1-3ba1edea84d5" alt="Screenshot 9" width="200">
+<img src="https://github.com/iamprathameshmore/aline/assets/91453437/9cbebc7f-9b93-4ca9-b035-58bedf26f4ae" alt="Screenshot 10" width="200">
 
 ## Requirements
 
